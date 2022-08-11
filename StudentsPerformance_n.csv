@@ -1,0 +1,1001 @@
+student_id,Name, parental level of education ,gender,Experienced in writing code,group_sec,discrete math score,writing score,engineer math score,physic score,computer programing score
+1,Mary, bachelor's degree ,female,none,group B,72,74,72,41,43
+2,Annie, some college ,female,completed,group C,90,88,69,64,76
+3,Mattie, master's degree ,female,none,group B,95,93,90,47,79
+4,Ruby, associate's degree ,male,none,group A,57,44,47,79,59
+5,Willie, some college ,male,none,group C,78,75,76,47,32
+6,Louise, associate's degree ,female,none,group B,83,78,71,69,75
+7,Lillie, some college ,female,completed,group B,95,92,88,56,89
+8,Ethel, some college ,male,none,group B,43,39,40,49,77
+9,Bessie, high school ,male,completed,group D,64,67,64,53,60
+10,Rosa, high school ,female,none,group B,60,50,38,60,34
+11,Ruth, associate's degree ,male,none,group C,54,52,58,87,66
+12,Elizabeth, associate's degree ,male,none,group D,52,43,40,68,80
+13,Emma, high school ,female,none,group B,81,73,65,50,37
+14,Marie, some college ,male,completed,group A,72,70,78,87,42
+15,Minnie, master's degree ,female,none,group A,53,58,50,80,81
+16,Carrie, some high school ,female,none,group C,75,78,69,45,73
+17,Hattie, high school ,male,none,group C,89,86,88,38,34
+18,Fannie, some high school ,female,none,group B,32,28,18,73,40
+19,Sarah, master's degree ,male,completed,group C,42,46,46,75,57
+20,Mamie, associate's degree ,female,none,group C,58,61,54,58,44
+21,Alice, high school ,male,none,group D,69,63,66,62,60
+22,Frances, some college ,female,completed,group B,75,70,65,70,70
+23,Mildred, some college ,male,none,group D,54,53,44,80,72
+24,Thelma, some high school ,female,none,group C,73,73,69,69,70
+25,Bertha, bachelor's degree ,male,completed,group D,71,80,74,38,87
+26,Gladys, master's degree ,male,none,group A,74,72,73,50,74
+27,Clara, some college ,male,none,group B,54,55,69,90,52
+28,Martha, bachelor's degree ,female,none,group C,69,75,67,58,44
+29,Susie, high school ,male,none,group C,70,65,70,89,70
+30,Jessie, master's degree ,female,none,group D,70,75,62,83,66
+31,Nellie, some college ,female,none,group D,74,74,69,57,82
+32,Essie, some college ,female,none,group B,65,61,63,44,83
+33,Lillian, master's degree ,female,none,group E,72,65,56,36,30
+34,Lucille, some college ,male,none,group D,42,38,40,44,47
+35,Anna, some college ,male,none,group E,87,82,97,87,37
+36,Eva, associate's degree ,male,completed,group E,81,79,81,89,68
+37,Margaret, associate's degree ,female,none,group D,81,83,74,64,37
+38,Ida, some high school ,female,none,group D,64,59,50,91,35
+39,Lula, associate's degree ,female,completed,group D,90,88,75,56,80
+40,Pearl, associate's degree ,male,none,group B,56,57,57,82,34
+41,Ella, associate's degree ,male,none,group C,61,54,55,89,69
+42,Evelyn, associate's degree ,female,none,group C,73,68,58,81,36
+43,Maggie, associate's degree ,female,none,group B,58,65,53,50,82
+44,Daisy, some college ,male,completed,group B,65,66,59,84,52
+45,Julia, associate's degree ,female,none,group E,56,54,50,76,81
+46,Lizzie, associate's degree ,male,none,group B,54,57,65,74,46
+47,Cora, associate's degree ,female,completed,group A,65,62,55,86,81
+48,Gertrude, high school ,female,none,group C,71,76,66,76,34
+49,Dorothy, associate's degree ,female,completed,group D,74,76,57,42,80
+50,Lucile, high school ,male,completed,group C,84,82,82,68,51
+51,Edna, some college ,male,none,group E,55,48,53,87,58
+52,Irene, associate's degree ,male,completed,group E,69,68,77,39,59
+53,Helen, some college ,male,none,group C,44,42,53,39,51
+54,Beatrice, high school ,male,none,group D,78,75,88,36,63
+55,Pauline, some high school ,female,completed,group C,84,87,71,76,81
+56,Sallie, high school ,female,none,group C,41,43,33,87,50
+57,Lois, associate's degree ,female,completed,group E,85,86,82,80,84
+58,Viola, associate's degree ,male,none,group D,55,49,52,81,88
+59,Georgia, some college ,male,completed,group D,59,58,58,40,39
+60,Laura, some high school ,female,none,group C,17,10,0,59,61
+61,Katie, bachelor's degree ,male,completed,group E,74,72,79,44,52
+62,Grace, some high school ,male,none,group A,39,34,39,76,65
+63,Lucy, associate's degree ,male,none,group A,61,55,62,69,56
+64,Mae, associate's degree ,female,none,group C,80,71,69,78,90
+65,Alma, some high school ,female,none,group D,58,59,59,90,43
+66,Ola, some high school ,male,none,group B,64,61,67,61,31
+67,Inez, some high school ,male,none,group D,37,37,45,72,37
+68,Myrtle, some college ,female,none,group C,72,74,60,77,72
+69,Josephine, associate's degree ,male,none,group B,58,56,61,66,56
+70,Eula, associate's degree ,female,none,group C,64,57,39,65,52
+71,Eunice, some college ,female,completed,group D,63,73,58,33,33
+72,Florence, some college ,male,completed,group D,55,63,63,73,55
+73,Sara, associate's degree ,female,none,group A,51,48,41,55,42
+74,Virginia, some high school ,male,none,group C,57,56,61,73,74
+75,Alberta, some high school ,male,none,group C,49,41,49,91,76
+76,Johnnie, associate's degree ,male,none,group B,41,38,44,90,75
+77,Estelle, some high school ,male,none,group E,26,22,30,30,43
+78,Hazel, bachelor's degree ,male,completed,group A,78,81,80,61,53
+79,Janie, some high school ,female,completed,group D,74,72,61,66,83
+80,Catherine, master's degree ,female,none,group E,68,68,62,87,61
+81,Sadie, associate's degree ,female,none,group B,49,50,47,87,63
+82,Beulah, high school ,male,none,group B,45,45,49,85,59
+83,Nettie, some college ,male,completed,group A,47,54,50,53,47
+84,Addie, associate's degree ,male,none,group E,64,63,72,37,36
+85,Agnes, high school ,male,none,group D,39,34,42,34,61
+86,Rose, some college ,female,none,group C,80,82,73,47,40
+87,Rosie, some college ,female,none,group C,83,88,76,70,30
+88,Flora, associate's degree ,female,none,group D,71,74,71,48,73
+89,Leola, some college ,female,none,group A,70,67,58,49,49
+90,Mabel, some high school ,female,none,group D,86,82,73,55,56
+91,Vera, bachelor's degree ,female,none,group C,72,74,65,87,77
+92,Lottie, high school ,male,none,group C,34,36,27,39,76
+93,Effie, high school ,male,none,group C,79,71,71,50,47
+94,Edith, associate's degree ,male,completed,group C,45,50,43,90,58
+95,Lena, some college ,female,none,group B,86,92,79,81,45
+96,Lola, associate's degree ,male,completed,group C,81,82,78,71,61
+97,Maude, some high school ,male,completed,group B,66,62,65,53,33
+98,Dora, some college ,female,completed,group E,72,70,63,76,83
+99,Gussie, some college ,female,none,group D,67,62,58,76,52
+100,Nora, bachelor's degree ,female,none,group D,67,62,65,61,34
+101,Rebecca, some college ,male,none,group B,67,67,79,67,32
+102,Estella, bachelor's degree ,male,completed,group D,74,74,68,66,38
+103,Betty, associate's degree ,female,none,group D,91,89,85,87,39
+104,Elsie, high school ,male,completed,group B,44,47,60,80,31
+105,Katherine, some college ,male,completed,group C,86,90,98,33,52
+106,Ollie, some college ,female,none,group C,67,72,58,89,80
+107,Ora, master's degree ,female,none,group D,100,100,87,82,90
+108,Blanche, associate's degree ,male,completed,group E,63,64,66,36,69
+109,Jennie, associate's degree ,female,none,group B,76,70,52,73,90
+110,Mable, some high school ,female,none,group B,64,72,70,53,40
+111,Ada, associate's degree ,female,completed,group D,89,98,77,55,67
+112,Bernice, high school ,male,none,group C,55,49,62,43,84
+113,Cleo, associate's degree ,male,none,group A,53,47,54,89,87
+114,Ann, some college ,female,none,group D,58,54,51,69,51
+115,Doris, bachelor's degree ,female,completed,group E,100,100,99,62,48
+116,Leila, high school ,male,none,group C,77,74,84,85,55
+117,Geneva, bachelor's degree ,female,none,group B,85,82,75,75,80
+118,Nina, bachelor's degree ,female,none,group D,82,79,78,53,72
+119,Odessa, some high school ,female,none,group D,63,61,51,49,49
+120,Christine, some college ,female,none,group C,69,65,55,68,45
+121,Jewell, bachelor's degree ,female,completed,group C,92,89,79,40,78
+122,Nancy, associate's degree ,male,completed,group B,89,92,91,75,62
+123,Della, some college ,female,completed,group C,93,93,88,45,70
+124,Kathleen, high school ,male,none,group D,57,56,63,64,39
+125,Leona, some college ,male,none,group E,80,73,83,67,39
+126,Florine, high school ,female,none,group B,95,86,87,30,33
+127,Callie, some high school ,male,none,group B,68,67,72,54,51
+128,Lessie, some college ,male,completed,group D,77,74,65,82,36
+129,Mollie, master's degree ,male,none,group D,82,74,82,69,49
+130,Jewel, bachelor's degree ,female,none,group A,49,51,51,90,68
+131,Josie, master's degree ,male,none,group D,84,82,89,54,80
+132,Jimmie, some high school ,male,completed,group C,37,40,53,42,66
+133,Myrtice, some college ,male,completed,group E,74,70,87,57,63
+134,Rachel, some college ,female,completed,group C,81,84,75,62,66
+135,Dollie, bachelor's degree ,male,completed,group D,79,75,74,91,53
+136,Eloise, bachelor's degree ,male,none,group C,55,48,58,32,66
+137,Kate, some high school ,male,completed,group B,54,41,51,82,42
+138,Stella, high school ,male,none,group E,55,56,70,74,80
+139,Henrietta, associate's degree ,female,none,group C,66,67,59,81,82
+140,Nell, some college ,male,completed,group D,61,69,71,30,49
+141,Ophelia, some high school ,female,none,group D,72,71,76,35,71
+142,Velma, some college ,female,none,group C,62,64,59,50,57
+143,Eleanor, some college ,female,completed,group E,55,54,42,56,73
+144,Esther, high school ,male,none,group A,43,47,57,65,45
+145,Marion, some college ,male,none,group D,73,78,88,58,81
+146,Emily, some college ,female,none,group C,39,33,22,63,75
+147,May, some high school ,male,none,group B,84,75,88,73,72
+148,Ellen, associate's degree ,male,none,group C,68,66,73,88,52
+149,Pearlie, bachelor's degree ,female,completed,group D,75,81,68,61,81
+150,Allie, associate's degree ,male,completed,group E,100,93,100,47,56
+151,Eddie, some high school ,male,completed,group A,67,69,62,90,73
+152,Etta, bachelor's degree ,male,none,group A,67,68,77,85,34
+153,Jannie, associate's degree ,female,completed,group B,70,66,59,56,79
+154,Lela, bachelor's degree ,male,none,group D,49,47,54,55,68
+155,Sally, some high school ,male,none,group D,67,61,62,33,62
+156,Claudia, some college ,female,completed,group C,89,88,70,84,46
+157,Cornelia, high school ,female,completed,group E,74,78,66,85,67
+158,Mozelle, some college ,male,none,group B,60,60,60,38,41
+159,Reba, associate's degree ,female,completed,group B,86,87,61,47,59
+160,Sue, associate's degree ,male,none,group D,62,64,66,80,51
+161,Victoria, associate's degree ,male,completed,group B,78,74,82,47,86
+162,Winnie, some college ,female,completed,group E,88,85,75,56,70
+163,Bertie, master's degree ,male,none,group B,53,52,49,80,89
+164,Flossie, high school ,male,none,group C,53,49,52,41,60
+165,Hannah, master's degree ,female,none,group E,92,91,81,70,75
+166,Lila, bachelor's degree ,female,completed,group C,100,100,96,52,50
+167,Nannie, high school ,male,completed,group C,51,51,53,69,79
+168,Amy, master's degree ,female,completed,group B,76,78,58,42,36
+169,Charlie, high school ,female,completed,group B,83,78,68,82,80
+170,Corine, some college ,female,completed,group C,75,70,67,57,84
+171,Juanita, high school ,male,completed,group A,73,74,72,81,56
+172,Maudie, some high school ,male,none,group E,88,78,94,48,58
+173,Opal, some college ,female,none,group D,86,81,79,70,35
+174,Roberta, associate's degree ,female,none,group C,67,70,63,65,58
+175,Vivian, bachelor's degree ,female,completed,group C,51,54,43,72,46
+176,Carolyn, master's degree ,female,completed,group C,91,87,81,33,47
+177,Frankie, high school ,female,completed,group B,54,58,46,88,33
+178,Magnolia, associate's degree ,female,completed,group C,77,77,71,42,80
+179,Ossie, master's degree ,female,completed,group B,70,62,52,61,46
+180,Willa, some high school ,female,completed,group D,100,100,97,85,44
+181,Anne, master's degree ,male,completed,group C,68,75,62,84,35
+182,Erma, some college ,female,none,group C,64,66,46,52,58
+183,Evie, high school ,female,none,group E,50,47,50,72,50
+184,Idella, associate's degree ,female,none,group D,69,70,65,32,88
+185,Marjorie, some high school ,male,completed,group C,52,49,45,77,79
+186,Birdie, associate's degree ,male,completed,group C,67,65,65,76,48
+187,Bonnie, high school ,male,none,group E,76,65,80,39,34
+188,Elnora, some high school ,male,completed,group D,66,68,62,59,42
+189,Hilda, some high school ,male,none,group B,52,45,48,38,57
+190,Jane, bachelor's degree ,female,none,group C,88,87,77,40,72
+191,Lucinda, associate's degree ,female,none,group E,65,69,66,61,78
+192,Luella, some college ,male,completed,group D,83,79,76,63,53
+193,Naomi, some high school ,female,none,group B,64,66,62,38,41
+194,Olivia, some college ,male,completed,group D,62,62,77,62,89
+195,Rosetta, master's degree ,female,completed,group C,84,85,69,78,72
+196,Sylvia, associate's degree ,male,none,group D,55,52,61,51,77
+197,Amelia, some high school ,male,completed,group C,69,65,59,38,30
+198,Clarice, high school ,male,none,group E,56,51,55,54,90
+199,Lorene, some college ,female,none,group B,53,55,45,66,82
+200,Roxie, bachelor's degree ,female,none,group B,79,76,78,58,32
+201,Tommie, associate's degree ,female,completed,group C,84,86,67,47,73
+202,Verna, some college ,female,none,group D,81,77,65,68,65
+203,Allene, associate's degree ,male,none,group C,77,69,69,80,78
+204,Audrey, associate's degree ,female,none,group B,69,68,57,34,47
+205,Charlotte, some college ,male,none,group C,41,42,59,52,78
+206,Dessie, some high school ,male,completed,group D,71,78,74,54,45
+207,Francis, bachelor's degree ,male,none,group E,62,62,82,80,76
+208,Linnie, high school ,male,completed,group E,80,76,81,72,74
+209,Margie, some college ,female,none,group B,81,76,74,45,36
+210,Myrtis, some college ,female,none,group B,61,66,58,39,78
+211,Adell, some high school ,male,completed,group D,79,79,80,80,87
+212,Barbara, some college ,male,none,group C,28,27,35,44,63
+213,Billie, high school ,female,none,group C,62,60,42,75,63
+214,Clifford, associate's degree ,male,completed,group C,51,56,60,77,73
+215,Clyde, high school ,male,completed,group E,91,81,87,89,58
+216,Connie, some high school ,male,completed,group B,83,75,84,66,60
+217,Elma, associate's degree ,female,completed,group E,86,88,83,38,37
+218,Ernestine, high school ,female,none,group C,42,39,34,46,85
+219,Geraldine, high school ,male,none,group B,77,70,66,65,35
+220,Gracie, some high school ,male,completed,group B,56,56,61,91,81
+221,Hallie, high school ,female,completed,group D,68,74,56,88,64
+222,Idell, associate's degree ,male,none,group B,85,73,87,77,79
+223,Jean, some high school ,female,none,group C,65,62,55,42,68
+224,Jeanette, some high school ,male,none,group D,80,75,86,34,47
+225,Mandy, associate's degree ,female,completed,group B,66,73,52,86,52
+226,Millie, master's degree ,female,none,group E,56,54,45,67,61
+227,Queen, some college ,female,none,group C,72,71,72,54,67
+228,Rubie, high school ,male,none,group D,50,54,57,31,67
+229,Wilma, some high school ,male,none,group A,72,64,68,45,79
+230,Amanda, some college ,female,completed,group C,95,94,88,82,53
+231,Cassie, some college ,male,none,group D,64,66,76,75,78
+232,Claire, associate's degree ,male,none,group C,43,42,46,38,66
+233,Claudie, bachelor's degree ,female,none,group B,86,83,67,59,76
+234,Eliza, some high school ,male,none,group E,87,78,92,84,38
+235,Iona, bachelor's degree ,male,completed,group C,82,84,83,33,42
+236,Irma, associate's degree ,male,none,group D,75,77,80,55,87
+237,Lettie, bachelor's degree ,male,none,group D,66,67,63,32,91
+238,Madge, some high school ,female,completed,group D,60,74,64,64,37
+239,Marguerite, some college ,male,none,group B,52,51,54,70,37
+240,Maxine, associate's degree ,male,none,group C,80,80,84,76,84
+241,Nona, high school ,male,completed,group D,68,66,73,67,56
+242,Patricia, bachelor's degree ,female,none,group E,83,83,80,85,82
+243,Pinkie, high school ,female,none,group D,52,55,56,58,54
+244,Polly, some college ,male,none,group E,51,43,59,66,53
+245,Rosalie, some high school ,male,none,group D,74,69,75,83,59
+246,Susan, associate's degree ,male,none,group C,76,71,85,34,37
+247,Belle, associate's degree ,male,none,group E,76,74,89,48,33
+248,Emmie, high school ,female,completed,group B,70,68,58,57,91
+249,Estell, high school ,female,none,group B,64,62,65,55,68
+250,Ila, high school ,male,none,group C,60,53,68,50,51
+251,Iola, some high school ,male,completed,group A,49,49,47,69,77
+252,Ira, some college ,female,none,group D,83,83,71,55,36
+253,Isabelle, some high school ,female,completed,group B,70,70,60,85,78
+254,Jeannette, master's degree ,male,none,group D,80,72,80,47,54
+255,Kathryn, high school ,male,none,group D,52,52,54,61,47
+256,Lee, some college ,female,none,group E,73,70,62,75,75
+257,Letha, associate's degree ,female,none,group C,73,68,64,42,42
+258,Lora, associate's degree ,male,completed,group C,77,77,78,79,67
+259,Lorena, some college ,female,none,group B,75,78,70,83,86
+260,Maud, master's degree ,female,completed,group C,81,81,65,74,37
+261,Mozell, some high school ,female,completed,group C,79,77,64,42,59
+262,Nelle, some college ,male,completed,group C,79,78,79,65,70
+263,Rubye, some high school ,female,none,group C,50,51,44,43,78
+264,Theresa, high school ,female,none,group E,93,90,99,63,61
+265,Violet, high school ,male,none,group D,73,68,76,76,52
+266,Wilhelmina, some high school ,male,none,group D,42,41,59,73,74
+267,Aline, bachelor's degree ,female,none,group C,75,81,63,34,45
+268,Bennie, high school ,female,none,group D,72,77,69,89,72
+269,Caroline, associate's degree ,female,completed,group D,92,95,88,69,85
+270,Cecil, some college ,female,none,group E,76,70,71,35,87
+271,Corene, bachelor's degree ,male,none,group C,63,61,69,71,38
+272,Corrine, some college ,male,none,group C,49,42,58,71,37
+273,Dolly, associate's degree ,female,none,group D,53,58,47,90,64
+274,Easter, some college ,female,none,group D,70,71,65,30,56
+275,Georgie, some college ,male,completed,group B,85,76,88,59,56
+276,Hester, bachelor's degree ,male,none,group C,78,73,83,47,67
+277,Hettie, some high school ,female,completed,group C,92,93,85,45,85
+278,Ina, high school ,female,completed,group E,63,75,59,36,68
+279,Isabell, some high school ,female,none,group C,86,80,65,77,43
+280,Johnie, bachelor's degree ,male,none,group B,56,57,73,73,35
+281,Lilla, high school ,male,none,group D,52,42,53,57,85
+282,Lilly, high school ,male,none,group D,48,46,45,90,84
+283,Lorine, bachelor's degree ,female,none,group D,79,84,73,66,72
+284,Lovie, some college ,female,completed,group D,78,78,70,89,56
+285,Luevenia, some high school ,female,none,group B,46,46,37,82,73
+286,Matilda, associate's degree ,male,completed,group B,82,82,81,73,70
+287,Mazie, associate's degree ,male,completed,group E,82,88,97,90,43
+288,Miriam, some high school ,female,none,group B,89,82,67,62,35
+289,Myra, bachelor's degree ,male,none,group B,75,76,88,88,80
+290,Nola, some high school ,male,completed,group E,76,77,77,87,70
+291,Rena, associate's degree ,male,none,group C,70,68,76,67,70
+292,Retha, some high school ,male,none,group D,73,70,86,88,51
+293,Rosia, some high school ,male,completed,group C,60,57,63,68,58
+294,Rossie, bachelor's degree ,female,none,group E,73,75,65,34,83
+295,Savannah, high school ,male,completed,group D,77,80,78,68,75
+296,Sophie, associate's degree ,male,none,group B,62,60,67,46,67
+297,Trudie, some high school ,male,completed,group A,41,43,46,53,73
+298,Verdie, associate's degree ,male,completed,group E,74,68,71,34,61
+299,Bell, high school ,male,completed,group C,46,50,40,31,51
+300,Celia, associate's degree ,male,none,group D,87,75,90,52,88
+301,Eldora, some college ,male,completed,group A,78,81,81,58,80
+302,George, some high school ,male,none,group D,54,52,56,87,69
+303,John, associate's degree ,female,completed,group C,84,81,67,61,30
+304,Kattie, associate's degree ,male,none,group B,76,64,80,37,30
+305,Lily, associate's degree ,female,completed,group C,75,83,74,41,57
+306,Liza, some college ,male,none,group A,67,69,69,42,74
+307,Lona, some college ,male,completed,group E,87,81,99,80,75
+308,Lonie, some high school ,male,none,group C,52,44,51,35,63
+309,Ludie, associate's degree ,female,none,group B,71,67,53,42,41
+310,Lue, high school ,female,none,group D,57,52,49,86,46
+311,Mammie, associate's degree ,female,none,group B,76,80,73,49,37
+312,Marian, bachelor's degree ,male,none,group B,60,57,66,63,58
+313,Maybelle, bachelor's degree ,male,completed,group D,61,68,67,59,68
+314,Mittie, associate's degree ,female,completed,group C,67,69,68,30,47
+315,Norma, bachelor's degree ,female,completed,group C,64,75,59,36,63
+316,Ozie, high school ,male,none,group C,66,65,71,48,59
+317,Rita, master's degree ,female,completed,group D,82,91,77,41,51
+318,Ruthie, associate's degree ,male,none,group C,72,78,83,56,59
+319,Zelma, bachelor's degree ,male,none,group B,71,69,63,74,33
+320,Bettie, associate's degree ,female,none,group D,65,63,56,34,75
+321,Curtis, high school ,female,completed,group C,79,84,67,43,72
+322,Donnie, high school ,female,none,group E,86,79,75,59,48
+323,Elmer, some college ,female,none,group C,81,80,71,52,48
+324,Ester, some high school ,female,none,group C,53,53,43,66,73
+325,Eugenia, high school ,female,none,group C,46,43,41,81,66
+326,Exie, some college ,female,none,group C,90,94,82,88,71
+327,Fay, some college ,male,none,group C,61,62,61,74,87
+328,Fronie, some college ,male,none,group A,23,19,28,56,64
+329,James, associate's degree ,male,completed,group C,75,77,82,68,67
+330,Laurie, some high school ,female,none,group B,55,51,41,86,73
+331,Lenora, high school ,male,none,group C,60,61,71,80,77
+332,Leonia, associate's degree ,male,none,group C,37,35,47,72,90
+333,Loretta, associate's degree ,male,completed,group E,56,53,62,84,89
+334,Louella, associate's degree ,male,none,group B,78,81,90,32,43
+335,Lulu, bachelor's degree ,female,none,group C,93,95,83,78,75
+336,Luna, some college ,female,none,group B,68,66,61,70,49
+337,Lydia, some high school ,male,completed,group D,70,69,76,78,87
+338,Madeline, associate's degree ,male,none,group C,51,43,49,89,33
+339,Maxie, some high school ,female,none,group B,38,27,24,53,58
+340,Maybell, some high school ,female,completed,group D,55,60,35,60,72
+341,Ocie, high school ,male,none,group C,61,52,58,42,36
+342,Otis, high school ,female,none,group C,73,63,61,54,48
+343,Peggy, high school ,female,completed,group B,76,74,69,91,61
+344,Robbie, associate's degree ,male,completed,group D,72,67,67,44,59
+345,Tressie, some college ,male,none,group D,73,67,79,80,67
+346,Vinnie, high school ,female,none,group C,80,75,72,58,73
+347,Winifred, some college ,male,none,group B,61,57,62,69,58
+348,Adelaide, bachelor's degree ,female,completed,group C,94,95,77,52,34
+349,Adele, high school ,male,none,group D,74,66,75,52,67
+350,Adeline, associate's degree ,male,none,group E,74,76,87,32,33
+351,Adella, bachelor's degree ,female,none,group B,65,69,52,43,38
+352,Alpha, some college ,male,none,group E,57,52,66,41,50
+353,Angeline, some college ,female,completed,group C,78,80,63,34,88
+354,Antoinette, associate's degree ,female,none,group C,58,57,46,59,51
+355,Artie, some college ,female,none,group C,71,70,59,85,34
+356,Aurelia, bachelor's degree ,female,none,group B,72,70,61,91,71
+357,Azzie, associate's degree ,male,none,group A,61,61,63,71,39
+358,Birtha, some college ,female,completed,group C,66,69,42,85,50
+359,Blonnie, some college ,male,none,group D,62,61,59,79,74
+360,Ceola, some college ,female,none,group D,90,89,80,41,88
+361,Corrie, high school ,female,none,group B,62,59,58,77,78
+362,Elease, some high school ,male,completed,group B,84,78,85,55,32
+363,Ellie, some college ,female,none,group C,58,58,52,78,32
+364,Elva, some high school ,female,none,group D,34,32,27,40,66
+365,Era, some college ,male,none,group C,60,58,59,45,41
+366,Florene, bachelor's degree ,male,completed,group A,58,60,49,56,60
+367,Florrie, high school ,male,completed,group C,58,53,69,36,38
+368,Gennie, bachelor's degree ,male,none,group C,66,61,61,36,35
+369,Gertie, some high school ,female,none,group A,64,58,44,72,32
+370,Gwendolyn, some high school ,female,none,group D,84,85,73,37,45
+371,Harriet, some college ,male,none,group E,77,71,84,88,68
+372,Henry, some college ,female,completed,group C,73,70,45,64,44
+373,Iva, some high school ,male,none,group D,74,72,74,64,36
+374,Jackie, some college ,female,completed,group D,97,96,82,58,50
+375,Joyce, bachelor's degree ,female,none,group D,70,73,59,31,45
+376,Kizzie, associate's degree ,male,none,group E,43,41,46,45,39
+377,Lannie, some high school ,female,none,group D,90,82,80,60,84
+378,Lelia, master's degree ,female,completed,group D,95,100,85,50,80
+379,Linda, some high school ,female,none,group A,83,77,71,82,80
+380,Lonnie, bachelor's degree ,male,none,group A,64,62,66,87,68
+381,Loraine, associate's degree ,female,none,group B,86,83,80,76,63
+382,Louie, associate's degree ,male,completed,group C,100,95,87,76,36
+383,Love, master's degree ,male,none,group C,81,71,79,50,47
+384,Mabell, some high school ,female,none,group E,49,45,38,72,74
+385,Madie, some high school ,female,none,group A,43,43,38,85,53
+386,Mariah, some college ,female,none,group E,76,75,67,56,81
+387,Melba, bachelor's degree ,female,none,group E,73,70,64,71,58
+388,Odell, associate's degree ,female,none,group C,78,67,57,45,69
+389,Olga, high school ,female,none,group D,64,64,62,32,42
+390,Olive, master's degree ,male,none,group D,70,75,73,52,58
+391,Ozella, some high school ,male,completed,group E,67,59,73,33,34
+392,Patsy, some college ,female,none,group D,68,77,77,60,33
+393,Pennie, some college ,male,none,group E,67,67,76,39,85
+394,Priscilla, associate's degree ,male,completed,group C,54,56,57,74,65
+395,Tempie, some high school ,female,completed,group C,74,77,65,64,79
+396,Tiny, high school ,male,none,group A,45,41,48,81,70
+397,Trudy, high school ,female,none,group B,67,63,50,37,40
+398,Vassie, associate's degree ,female,none,group C,89,95,85,91,85
+399,Vesta, some high school ,male,none,group B,63,57,74,57,43
+400,Zola, some high school ,male,none,group D,59,54,60,84,47
+401,Mary, some high school ,female,completed,group C,54,67,59,68,31
+402,Annie, some college ,male,none,group A,43,43,53,81,48
+403,Willie, some college ,female,none,group A,65,55,49,89,88
+404,Ruby, high school ,female,completed,group D,99,100,88,67,64
+405,Mattie, high school ,female,none,group C,59,62,54,83,69
+406,Louise, some high school ,female,none,group C,73,68,63,85,90
+407,Ruth, associate's degree ,male,completed,group B,65,63,65,55,50
+408,Lillie, associate's degree ,female,none,group B,80,77,82,32,59
+409,Ethel, high school ,female,completed,group D,57,56,52,86,60
+410,Elizabeth, associate's degree ,male,completed,group D,84,85,87,35,43
+411,Bessie, master's degree ,female,completed,group D,71,74,70,78,59
+412,Minnie, some college ,male,completed,group E,83,78,84,38,41
+413,Frances, associate's degree ,male,none,group D,66,60,71,86,63
+414,Emma, some high school ,male,completed,group B,67,67,63,88,67
+415,Mamie, bachelor's degree ,female,completed,group C,72,79,51,30,47
+416,Martha, high school ,male,none,group E,73,69,84,85,32
+417,Marie, bachelor's degree ,male,completed,group C,74,68,71,88,37
+418,Margaret, associate's degree ,male,none,group C,73,67,74,76,85
+419,Rosa, some college ,male,none,group D,59,62,68,47,45
+420,Sarah, high school ,male,completed,group E,56,54,57,72,65
+421,Carrie, associate's degree ,female,completed,group C,93,93,82,85,58
+422,Gladys, high school ,female,completed,group D,58,64,57,42,88
+423,Alice, master's degree ,female,completed,group D,58,67,47,36,30
+424,Thelma, some high school ,female,completed,group A,85,80,59,59,77
+425,Jessie, some college ,male,none,group B,39,34,41,82,64
+426,Hattie, some college ,female,none,group C,67,62,62,58,66
+427,Mildred, bachelor's degree ,male,none,group C,83,86,86,83,77
+428,Susie, some high school ,male,none,group C,71,65,69,35,54
+429,Fannie, some high school ,male,none,group A,59,53,65,84,84
+430,Lucille, some high school ,male,none,group C,63,54,68,32,50
+431,Clara, associate's degree ,male,none,group C,66,59,64,78,87
+432,Edna, high school ,female,none,group C,72,70,61,67,46
+433,Lillian, high school ,male,none,group C,56,55,61,32,57
+434,Bertha, some high school ,female,none,group A,59,50,47,84,43
+435,Helen, some high school ,male,none,group C,66,66,73,82,44
+436,Ella, some college ,male,completed,group C,48,53,50,83,30
+437,Ida, associate's degree ,male,none,group D,68,64,75,73,76
+438,Dorothy, associate's degree ,male,none,group D,66,73,75,43,53
+439,Essie, high school ,male,none,group C,56,51,70,75,54
+440,Eva, some high school ,male,completed,group D,88,82,89,61,78
+441,Anna, some college ,female,completed,group C,81,79,67,60,46
+442,Lula, high school ,female,none,group D,81,80,78,33,37
+443,Nellie, some high school ,female,none,group A,73,69,59,36,57
+444,Evelyn, associate's degree ,female,none,group B,83,76,73,46,74
+445,Irene, some high school ,male,none,group A,82,73,79,67,61
+446,Julia, some high school ,female,completed,group C,74,77,67,65,50
+447,Pearl, some college ,male,none,group D,66,60,69,35,40
+448,Maggie, high school ,male,completed,group C,81,80,86,34,39
+449,Lucile, high school ,male,none,group B,46,42,47,49,55
+450,Laura, associate's degree ,male,none,group B,73,72,81,70,86
+451,Beatrice, some college ,female,completed,group C,85,85,64,87,68
+452,Florence, some college ,female,none,group E,92,97,100,87,66
+453,Lizzie, associate's degree ,female,none,group C,77,74,65,74,84
+454,Grace, some college ,male,none,group C,58,49,65,59,59
+455,Pauline, associate's degree ,female,none,group C,61,62,53,80,85
+456,Lois, bachelor's degree ,male,none,group C,56,47,37,45,45
+457,Daisy, bachelor's degree ,female,none,group D,89,89,79,32,40
+458,Inez, associate's degree ,male,none,group D,54,48,53,82,72
+459,Cora, bachelor's degree ,female,none,group E,100,100,100,89,52
+460,Alma, high school ,male,completed,group B,65,68,72,46,89
+461,Georgia, bachelor's degree ,male,none,group C,58,55,53,48,63
+462,Lucy, some college ,male,none,group B,54,45,54,30,34
+463,Viola, some college ,female,none,group E,70,76,71,58,38
+464,Eula, some college ,female,none,group C,90,91,77,57,90
+465,Sara, bachelor's degree ,male,completed,group A,58,62,75,36,77
+466,Katie, some college ,female,none,group C,87,91,84,56,52
+467,Sallie, associate's degree ,female,none,group D,31,38,26,44,62
+468,Mae, high school ,male,completed,group A,67,65,72,53,45
+469,Virginia, high school ,female,completed,group A,88,85,77,55,49
+470,Hazel, some college ,male,none,group C,74,76,91,64,40
+471,Gertrude, associate's degree ,female,completed,group C,85,90,83,86,75
+472,Myrtle, high school ,female,none,group C,69,74,63,38,52
+473,Addie, associate's degree ,female,completed,group C,86,84,68,44,36
+474,Eunice, some high school ,female,none,group D,67,61,59,88,75
+475,Josephine, associate's degree ,female,completed,group B,90,91,90,65,45
+476,Catherine, bachelor's degree ,female,completed,group D,76,83,71,52,90
+477,Agnes, bachelor's degree ,male,completed,group E,62,66,76,70,43
+478,Johnnie, associate's degree ,male,none,group D,68,72,80,89,91
+479,Janie, master's degree ,female,none,group D,64,70,55,54,61
+480,Estelle, associate's degree ,male,none,group E,71,67,76,49,78
+481,Rose, high school ,male,completed,group B,71,68,73,82,79
+482,Ada, associate's degree ,female,none,group D,59,56,52,60,71
+483,Nancy, some college ,male,none,group C,68,61,68,61,81
+484,Alberta, high school ,male,none,group A,52,46,59,33,87
+485,Edith, associate's degree ,female,none,group B,52,54,49,48,77
+486,Vera, high school ,male,none,group C,74,71,70,74,42
+487,Effie, some college ,male,none,group D,47,56,61,43,49
+488,Mabel, associate's degree ,female,none,group C,75,74,60,51,46
+489,Nettie, some high school ,male,completed,group B,53,57,64,49,60
+490,Rosie, associate's degree ,male,completed,group A,82,82,79,65,51
+491,Lena, associate's degree ,female,none,group A,85,76,65,36,86
+492,Gussie, associate's degree ,female,none,group C,64,70,64,88,56
+493,Ollie, some college ,female,none,group C,83,90,83,60,86
+494,Leola, bachelor's degree ,female,none,group C,88,90,81,55,67
+495,Ola, high school ,female,none,group B,64,68,54,87,54
+496,Lottie, high school ,male,completed,group D,64,66,68,48,69
+497,Beulah, some college ,female,none,group C,48,52,54,69,90
+498,Jewell, some college ,female,completed,group D,78,76,59,61,51
+499,Katherine, some high school ,female,none,group B,69,68,66,61,37
+500,Christine, some college ,male,none,group E,71,72,76,45,33
+501,Doris, master's degree ,female,none,group D,79,82,74,64,45
+502,Mable, associate's degree ,female,completed,group B,87,92,94,68,61
+503,Dora, some college ,male,none,group C,61,54,63,79,87
+504,Bernice, associate's degree ,female,completed,group E,89,92,95,47,83
+505,Vivian, master's degree ,female,none,group D,59,54,40,54,46
+506,Cleo, some high school ,female,none,group B,82,80,82,67,65
+507,Elsie, high school ,male,none,group A,70,66,68,72,66
+508,Geneva, bachelor's degree ,male,none,group B,59,54,55,57,68
+509,Nell, master's degree ,male,none,group C,78,77,79,55,61
+510,Ora, bachelor's degree ,female,none,group C,92,87,86,67,58
+511,Maude, some college ,male,none,group D,71,73,76,36,43
+512,Rebecca, some high school ,male,none,group A,50,43,64,47,77
+513,Sadie, some high school ,male,none,group D,49,52,62,81,39
+514,Ellen, some high school ,female,completed,group B,61,62,54,78,43
+515,Eloise, master's degree ,female,completed,group B,97,94,77,70,72
+516,Flora, some high school ,female,completed,group C,87,85,76,51,41
+517,Jennie, some college ,female,none,group D,89,84,74,84,77
+518,Nora, some college ,female,completed,group E,74,73,66,43,88
+519,Estella, some high school ,female,completed,group D,78,78,66,58,69
+520,Anne, high school ,female,completed,group B,78,79,67,35,69
+521,Eddie, some college ,male,none,group D,49,52,71,58,89
+522,Leila, associate's degree ,female,none,group C,86,84,91,42,51
+523,Leona, bachelor's degree ,male,none,group D,58,57,69,41,89
+524,Corine, master's degree ,male,none,group C,59,50,54,37,72
+525,Lessie, high school ,male,completed,group C,52,49,53,84,37
+526,Dollie, some college ,male,none,group E,60,59,68,49,68
+527,Emily, some high school ,male,completed,group C,61,60,56,51,82
+528,Etta, high school ,female,none,group C,53,43,36,56,41
+529,Allie, bachelor's degree ,female,none,group D,41,47,29,49,61
+530,Marguerite, associate's degree ,female,none,group C,74,70,62,57,33
+531,Nina, associate's degree ,female,completed,group C,67,73,68,67,68
+532,Sally, some high school ,female,none,group C,54,53,47,62,86
+533,Stella, associate's degree ,male,completed,group E,61,58,62,47,73
+534,Velma, associate's degree ,female,completed,group E,88,94,79,91,54
+535,Blanche, high school ,male,completed,group B,69,68,73,37,33
+536,Jimmie, bachelor's degree ,female,completed,group C,83,83,66,69,49
+537,Lola, associate's degree ,male,completed,group C,60,58,51,34,44
+538,Marjorie, high school ,female,none,group D,66,62,51,43,87
+539,Betty, bachelor's degree ,male,completed,group E,66,71,85,33,67
+540,Eliza, associate's degree ,male,completed,group A,92,86,97,79,76
+541,Flossie, high school ,male,completed,group C,69,68,75,80,33
+542,Rachel, associate's degree ,male,completed,group D,82,80,79,85,53
+543,Callie, associate's degree ,female,none,group C,77,79,81,50,44
+544,Esther, associate's degree ,female,none,group D,95,89,82,34,57
+545,Jewel, master's degree ,female,none,group D,63,66,64,84,44
+546,Millie, some high school ,male,completed,group E,83,80,78,86,55
+547,Myrtice, some high school ,female,completed,group A,100,97,92,71,56
+548,Bonnie, high school ,male,completed,group C,67,64,72,72,58
+549,Cornelia, high school ,female,none,group C,67,64,62,60,39
+550,Lila, master's degree ,male,none,group C,72,69,79,80,45
+551,Willa, some high school ,male,none,group C,76,65,79,72,63
+552,Jannie, bachelor's degree ,male,completed,group B,90,88,87,38,63
+553,Juanita, associate's degree ,female,none,group B,48,50,40,67,32
+554,Kathleen, some college ,male,none,group D,62,64,77,80,55
+555,Lela, associate's degree ,male,none,group E,45,40,53,80,65
+556,Roberta, some college ,female,none,group C,39,33,32,38,91
+557,Henrietta, associate's degree ,female,completed,group C,72,79,55,47,30
+558,Marion, master's degree ,male,none,group C,67,66,61,43,79
+559,Amanda, associate's degree ,female,none,group B,70,70,53,33,79
+560,Claudia, some high school ,male,none,group D,66,62,73,56,83
+561,Della, some college ,female,completed,group D,75,79,74,69,80
+562,Eleanor, some college ,female,none,group C,74,74,63,35,81
+563,Geraldine, bachelor's degree ,male,completed,group C,90,92,96,71,35
+564,Josie, some college ,female,completed,group D,80,80,63,31,75
+565,Mollie, bachelor's degree ,male,none,group B,51,46,48,68,31
+566,Rosalie, associate's degree ,male,none,group B,43,45,48,71,40
+567,Amy, bachelor's degree ,female,completed,group E,100,100,92,65,61
+568,Ann, master's degree ,female,completed,group D,71,78,61,87,87
+569,Georgie, high school ,male,none,group B,48,47,63,70,36
+570,Hilda, bachelor's degree ,male,none,group D,68,67,68,82,81
+571,Ila, some college ,male,completed,group B,75,70,71,76,61
+572,Marian, bachelor's degree ,male,none,group A,96,92,91,80,61
+573,Naomi, some college ,female,none,group C,62,56,53,87,57
+574,Ophelia, high school ,female,completed,group C,66,64,50,41,77
+575,Winnie, high school ,female,none,group E,81,71,74,67,37
+576,Carolyn, associate's degree ,male,completed,group A,55,53,40,37,75
+577,Dessie, some college ,male,completed,group A,51,52,61,89,34
+578,Francis, high school ,female,none,group B,91,89,81,36,55
+579,Irma, some college ,female,completed,group B,56,58,48,45,65
+580,Jane, master's degree ,female,none,group D,61,68,53,85,60
+581,Odessa, some high school ,female,none,group D,97,96,81,66,31
+582,Kate, some high school ,female,none,group E,79,80,77,75,86
+583,Opal, bachelor's degree ,female,none,group D,73,78,63,51,49
+584,Pearlie, associate's degree ,female,completed,group D,75,80,73,58,53
+585,Tommie, some college ,female,none,group D,77,77,69,82,81
+586,Zelma, associate's degree ,female,none,group C,76,76,65,38,40
+587,Allene, high school ,female,none,group A,73,73,55,76,57
+588,Belle, bachelor's degree ,female,none,group C,63,62,44,33,80
+589,Bertie, some college ,female,none,group C,64,65,54,73,81
+590,Clyde, some high school ,female,none,group A,66,65,48,52,63
+591,Ernestine, some college ,male,none,group C,57,54,58,77,70
+592,Eugenia, some high school ,male,none,group A,62,50,71,46,88
+593,Frankie, bachelor's degree ,male,none,group E,68,64,68,87,59
+594,Ina, high school ,female,none,group E,76,73,74,75,70
+595,Kathryn, bachelor's degree ,female,completed,group C,100,99,92,51,55
+596,Lorene, bachelor's degree ,female,completed,group C,79,72,56,34,51
+597,Lydia, high school ,male,none,group B,24,15,30,60,33
+598,Roxie, some high school ,male,none,group A,54,48,53,52,65
+599,Wilma, high school ,female,none,group D,77,73,69,89,90
+600,Charlie, some high school ,female,none,group D,82,81,65,52,80
+601,Idella, master's degree ,female,none,group D,60,63,54,60,40
+602,Louella, high school ,female,none,group C,29,30,29,68,91
+603,Mozelle, some college ,female,none,group E,78,80,76,39,63
+604,Nannie, high school ,male,none,group D,57,51,60,45,61
+605,Rena, master's degree ,male,completed,group D,89,90,84,34,81
+606,Rubye, some high school ,male,none,group C,72,62,75,55,31
+607,Clifford, associate's degree ,female,none,group C,84,82,85,84,76
+608,Elma, master's degree ,female,none,group C,58,54,40,85,87
+609,Era, some college ,female,none,group E,64,62,61,75,35
+610,Florine, associate's degree ,female,none,group B,63,65,58,80,46
+611,Florrie, some college ,male,completed,group D,60,63,69,40,74
+612,Hester, some college ,female,none,group C,59,66,58,50,86
+613,Madie, bachelor's degree ,male,completed,group C,90,91,94,57,33
+614,Mandy, associate's degree ,female,none,group C,77,74,65,59,59
+615,Norma, associate's degree ,female,none,group A,93,93,82,63,52
+616,Queen, high school ,female,none,group C,68,72,60,67,37
+617,Reba, bachelor's degree ,female,none,group E,45,38,37,38,56
+618,Sylvia, bachelor's degree ,male,none,group D,78,83,88,52,59
+619,Cassie, master's degree ,male,none,group D,81,84,95,80,33
+620,Celia, associate's degree ,male,completed,group C,73,68,65,30,74
+621,Claudie, high school ,female,none,group C,61,54,35,76,89
+622,Corene, bachelor's degree ,male,none,group B,63,56,62,34,45
+623,Elnora, high school ,male,completed,group C,51,52,58,69,76
+624,Erma, some college ,male,completed,group A,96,86,100,34,75
+625,Iris, bachelor's degree ,female,none,group E,58,62,61,60,47
+626,Mittie, some college ,male,completed,group D,97,99,100,41,53
+627,Myra, associate's degree ,male,completed,group B,70,63,69,62,57
+628,Susan, associate's degree ,male,none,group D,48,46,61,83,85
+629,Audrey, some college ,male,none,group D,57,46,49,60,36
+630,Birdie, some high school ,female,completed,group C,51,55,44,74,88
+631,Charlotte, some college ,male,none,group D,64,70,67,84,52
+632,Corinne, high school ,male,none,group B,60,65,79,64,39
+633,Dovie, bachelor's degree ,female,completed,group B,74,81,66,44,33
+634,Ester, high school ,female,none,group C,88,85,75,67,64
+635,Iva, some high school ,male,none,group D,84,80,84,73,91
+636,Jeanette, high school ,male,none,group A,74,64,71,83,69
+637,Johnie, high school ,female,completed,group B,80,81,67,68,83
+638,Lucinda, some high school ,female,completed,group D,92,88,80,58,51
+639,May, some college ,male,none,group E,76,74,86,89,80
+640,Olivia, associate's degree ,female,none,group D,74,73,76,91,82
+641,Pinkie, high school ,male,none,group D,52,51,41,60,83
+642,Verna, associate's degree ,female,completed,group D,88,90,74,64,60
+643,Aline, some high school ,female,none,group B,81,79,72,91,41
+644,Artie, high school ,female,completed,group E,79,80,74,74,88
+645,Billie, high school ,male,none,group B,65,60,70,46,41
+646,Bobbie, bachelor's degree ,female,completed,group B,81,81,65,71,49
+647,Connie, associate's degree ,female,none,group D,70,65,59,50,50
+648,Dolly, high school ,female,none,group E,62,68,64,69,41
+649,Evie, high school ,female,none,group B,53,55,50,44,43
+650,Harriet, some college ,female,completed,group D,79,81,69,76,75
+651,Imogene, some high school ,male,completed,group C,56,53,51,32,65
+652,Ira, high school ,female,completed,group A,80,76,68,90,39
+653,Lelia, some college ,female,completed,group D,86,98,85,64,39
+654,Lona, associate's degree ,female,completed,group A,70,74,65,45,73
+655,Lou, some high school ,female,none,group B,79,79,73,72,71
+656,Madeline, some college ,female,none,group B,67,67,62,49,51
+657,Magnolia, associate's degree ,male,none,group C,67,64,77,31,39
+658,Margie, some high school ,male,none,group D,66,61,69,47,90
+659,Maudie, associate's degree ,female,none,group D,60,58,43,88,40
+660,Nelle, associate's degree ,male,none,group D,87,85,90,32,52
+661,Ocie, some college ,male,none,group C,77,73,74,49,67
+662,Patricia, some high school ,male,none,group C,66,63,73,85,74
+663,Polly, some college ,female,none,group D,71,69,55,45,34
+664,Rosetta, high school ,female,none,group C,69,67,65,30,84
+665,Rosia, associate's degree ,male,none,group D,63,63,80,72,68
+666,Sue, some high school ,female,completed,group C,60,60,50,48,37
+667,Aileen, some college ,female,completed,group C,73,71,63,42,70
+668,Barbara, bachelor's degree ,female,none,group B,85,87,77,71,55
+669,Genevieve, some college ,male,none,group C,74,61,73,82,35
+670,Kattie, associate's degree ,male,completed,group D,72,77,81,36,52
+671,Lee, high school ,female,none,group C,76,68,66,70,89
+672,Lilla, associate's degree ,male,none,group D,57,50,52,43,35
+673,Maxine, some college ,female,none,group C,78,76,69,68,46
+674,Odell, associate's degree ,female,completed,group C,84,84,65,32,76
+675,Omie, high school ,female,completed,group D,77,78,69,72,35
+676,Robbie, some college ,female,completed,group B,64,66,50,73,49
+677,Ruthie, some college ,female,completed,group E,78,76,73,34,33
+678,Theresa, some high school ,female,completed,group C,82,76,70,76,57
+679,Victoria, associate's degree ,male,none,group D,75,78,81,46,69
+680,Adele, some college ,male,none,group D,61,60,63,68,67
+681,Amelia, high school ,female,none,group D,72,74,67,86,77
+682,Bell, high school ,male,none,group B,68,60,60,68,76
+683,Bennie, high school ,male,none,group B,55,54,62,75,61
+684,Chloe, some high school ,female,completed,group C,40,44,29,50,88
+685,Delia, some college ,male,completed,group B,66,68,62,67,87
+686,Easter, master's degree ,female,completed,group E,99,100,94,87,68
+687,Elise, some college ,male,completed,group E,75,68,85,56,64
+688,Elvira, associate's degree ,male,none,group D,78,73,77,78,62
+689,Emmie, high school ,male,none,group A,58,44,53,88,30
+690,Estell, some college ,male,none,group E,90,83,93,32,62
+691,Hallie, associate's degree ,female,none,group C,53,53,49,40,71
+692,Hortense, associate's degree ,female,none,group E,76,78,73,67,63
+693,Inell, bachelor's degree ,female,completed,group C,74,81,66,41,90
+694,Iona, associate's degree ,female,none,group D,77,73,77,30,74
+695,Jean, some high school ,female,none,group C,63,56,49,41,84
+696,Lenora, some college ,female,none,group D,89,86,79,79,50
+697,Linda, associate's degree ,female,completed,group C,82,90,75,74,64
+698,Lonnie, bachelor's degree ,female,none,group A,72,70,59,82,49
+699,Luella, associate's degree ,female,completed,group D,78,79,57,37,74
+700,Marietta, high school ,male,none,group C,66,59,66,32,50
+701,Miriam, bachelor's degree ,female,completed,group E,81,82,79,75,83
+702,Mozell, some high school ,female,none,group B,67,72,57,88,68
+703,Myrtis, bachelor's degree ,male,completed,group A,84,87,87,38,40
+704,Ossie, some college ,female,none,group D,64,67,63,76,45
+705,Rita, some high school ,female,completed,group B,63,64,59,90,36
+706,Trudie, bachelor's degree ,male,none,group A,72,65,62,68,80
+707,Violet, high school ,male,none,group D,34,36,46,90,77
+708,Abbie, some college ,male,none,group C,59,52,66,48,39
+709,Alta, high school ,male,none,group D,87,79,89,58,41
+710,Annette, associate's degree ,female,completed,group D,61,58,42,62,32
+711,Arlene, some college ,male,completed,group C,84,90,93,64,67
+712,Berta, some high school ,female,completed,group E,85,85,80,70,89
+713,Bettie, some college ,female,none,group D,100,99,98,50,78
+714,Caroline, master's degree ,male,none,group D,81,84,81,70,66
+715,Claire, some high school ,female,completed,group B,70,74,60,37,43
+716,Constance, associate's degree ,female,completed,group B,94,87,76,87,59
+717,Dixie, associate's degree ,male,completed,group C,78,72,73,60,42
+718,Floy, associate's degree ,female,completed,group C,96,99,96,52,91
+719,Harriett, high school ,female,none,group C,76,74,76,91,86
+720,Jonnie, associate's degree ,male,completed,group E,73,80,91,64,41
+721,Kitty, some college ,female,none,group C,72,70,62,64,62
+722,Lennie, some high school ,male,completed,group D,59,59,55,36,80
+723,Letha, some high school ,female,completed,group B,90,88,74,68,55
+724,Lilly, high school ,male,none,group C,48,42,50,63,57
+725,Lina, some college ,male,none,group B,43,41,47,78,37
+726,Liza, some college ,male,completed,group E,74,71,81,88,51
+727,Lora, associate's degree ,female,completed,group E,75,77,65,79,85
+728,Loraine, some high school ,male,completed,group E,51,57,68,45,54
+729,Ludie, high school ,female,none,group D,92,84,73,76,68
+730,Mabell, some college ,male,none,group C,39,37,53,34,63
+731,Madge, associate's degree ,female,completed,group B,77,80,68,62,83
+732,Melba, some high school ,male,none,group A,46,43,55,82,88
+733,Nadine, some college ,female,completed,group C,89,94,87,78,32
+734,Nola, some high school ,male,none,group D,47,44,55,32,32
+735,Olive, some college ,female,none,group E,58,57,53,54,47
+736,Piccola, master's degree ,male,none,group C,57,59,67,64,66
+737,Rubie, associate's degree ,male,none,group C,79,84,92,45,37
+738,Vergie, some college ,female,completed,group B,66,73,53,83,40
+739,Vinnie, associate's degree ,male,none,group D,71,73,81,87,37
+740,Annabelle, high school ,male,none,group C,60,55,61,45,50
+741,Azzie, bachelor's degree ,male,none,group D,73,72,80,58,46
+742,Blanch, associate's degree ,female,none,group A,57,56,37,77,35
+743,Corrine, high school ,female,none,group C,84,82,81,86,82
+744,Donnie, associate's degree ,female,completed,group C,73,72,59,87,73
+745,Elmira, some college ,male,none,group B,55,47,55,49,60
+746,Elva, associate's degree ,male,none,group D,79,74,72,69,90
+747,Hannah, high school ,male,none,group D,75,71,69,33,32
+748,Idelle, some college ,male,none,group C,64,68,69,49,73
+749,Iola, bachelor's degree ,female,none,group C,60,59,50,55,44
+750,Isabel, some college ,male,completed,group B,84,86,87,44,64
+751,Janet, some high school ,male,completed,group D,69,68,71,61,83
+752,Jeannette, some college ,male,none,group E,72,65,68,49,81
+753,Jerry, master's degree ,male,completed,group C,77,75,79,40,55
+754,Joyce, some high school ,female,completed,group C,90,85,77,59,84
+755,June, associate's degree ,male,none,group C,55,53,58,84,70
+756,Lavada, associate's degree ,female,none,group E,95,92,84,62,65
+757,Lily, some college ,male,none,group D,58,52,55,44,39
+758,Lorena, bachelor's degree ,male,completed,group E,68,72,70,74,33
+759,Lorine, some college ,female,completed,group D,59,65,52,66,39
+760,Luna, some college ,male,completed,group B,77,77,69,72,70
+761,Matilda, high school ,female,none,group C,72,64,53,88,90
+762,Maybelle, some high school ,female,none,group D,58,54,48,81,83
+763,Mazie, some high school ,male,completed,group D,81,86,78,40,30
+764,Melvina, high school ,female,none,group B,62,63,62,53,75
+765,Odie, some college ,male,none,group D,63,59,60,38,55
+766,Ouida, high school ,female,none,group B,72,72,74,63,42
+767,Ozie, high school ,female,completed,group C,75,77,58,85,42
+768,Pecola, high school ,male,completed,group B,62,60,76,91,58
+769,Rosalee, some high school ,female,none,group D,71,75,68,64,39
+770,Selma, some college ,male,none,group A,60,57,58,90,55
+771,Wilhelmina, high school ,male,none,group B,48,49,52,85,74
+772,Mary, bachelor's degree ,male,none,group D,73,74,75,61,45
+773,Annie, some high school ,female,completed,group B,67,72,52,79,75
+774,Willie, bachelor's degree ,female,none,group C,78,79,62,31,52
+775,Ruby, some college ,male,none,group B,65,60,66,86,35
+776,Mattie, some high school ,female,none,group B,58,55,49,70,45
+777,Louise, high school ,female,none,group B,72,70,66,36,34
+778,Ruth, some college ,female,none,group C,44,43,35,46,37
+779,Lillie, some college ,female,completed,group A,79,82,72,50,32
+780,Elizabeth, associate's degree ,male,completed,group E,85,82,94,64,35
+781,Sarah, associate's degree ,female,none,group D,56,57,46,75,82
+782,Ethel, master's degree ,female,none,group B,90,84,77,73,68
+783,Mildred, high school ,female,completed,group B,85,82,76,55,89
+784,Emma, associate's degree ,female,completed,group C,59,62,52,62,62
+785,Frances, bachelor's degree ,male,completed,group C,81,79,91,42,72
+786,Bessie, some high school ,female,completed,group B,51,44,32,74,75
+787,Margaret, some high school ,female,none,group E,79,77,72,73,86
+788,Rosa, some college ,female,none,group B,38,32,19,43,57
+789,Gladys, associate's degree ,male,none,group C,65,61,68,30,82
+790,Minnie, master's degree ,female,none,group C,65,61,52,53,73
+791,Carrie, high school ,female,none,group B,62,60,48,52,83
+792,Fannie, some college ,female,none,group D,66,70,60,82,30
+793,Mamie, high school ,male,none,group D,74,69,66,39,46
+794,Martha, some high school ,male,completed,group E,84,77,89,57,30
+795,Edna, high school ,female,none,group B,52,51,42,49,60
+796,Dorothy, associate's degree ,female,completed,group E,68,73,57,36,47
+797,Thelma, high school ,male,none,group D,70,70,70,33,81
+798,Evelyn, associate's degree ,female,none,group E,84,81,70,40,30
+799,Lillian, some college ,male,none,group E,60,54,69,36,52
+800,Jessie, associate's degree ,female,none,group C,55,57,52,49,90
+801,Hattie, some high school ,male,completed,group C,73,68,67,51,85
+802,Marie, some high school ,male,completed,group C,80,73,76,89,46
+803,Helen, associate's degree ,female,none,group E,94,95,87,35,62
+804,Julia, some college ,female,none,group B,85,87,82,68,59
+805,Clara, some college ,female,none,group C,76,78,73,48,80
+806,Lucille, some college ,male,none,group A,81,74,75,86,68
+807,Ida, some college ,female,none,group D,74,75,64,46,78
+808,Daisy, high school ,female,none,group E,45,40,41,31,85
+809,Alice, high school ,male,none,group C,75,69,90,78,42
+810,Lois, bachelor's degree ,male,none,group B,54,51,59,66,70
+811,Essie, some high school ,male,none,group A,31,36,51,39,35
+812,Grace, high school ,male,none,group A,47,49,45,66,45
+813,Irene, master's degree ,female,completed,group C,64,67,54,83,37
+814,Bertha, some high school ,male,completed,group E,84,76,87,54,58
+815,Lucile, high school ,female,none,group C,80,83,72,35,44
+816,Alma, some high school ,male,completed,group B,86,87,94,80,83
+817,Beatrice, bachelor's degree ,female,none,group A,59,64,45,31,61
+818,Nellie, bachelor's degree ,male,completed,group D,70,76,61,85,63
+819,Pauline, high school ,female,none,group B,72,68,60,59,34
+820,Lula, some high school ,female,none,group C,91,88,77,60,85
+821,Ella, some high school ,female,completed,group A,90,92,85,43,62
+822,Laura, bachelor's degree ,female,none,group D,90,93,78,35,72
+823,Maggie, some college ,male,completed,group E,52,51,49,31,68
+824,Susie, high school ,female,none,group B,87,82,71,60,87
+825,Anna, some high school ,female,none,group C,58,52,48,53,67
+826,Eva, high school ,male,none,group C,67,58,62,30,59
+827,Cora, associate's degree ,female,completed,group C,68,70,56,56,77
+828,Georgia, some high school ,female,none,group C,69,76,65,87,78
+829,Viola, some high school ,female,completed,group D,86,81,69,49,61
+830,Virginia, some high school ,male,none,group B,54,53,68,50,50
+831,Gertrude, some college ,female,none,group A,60,57,61,39,72
+832,Lucy, bachelor's degree ,female,completed,group C,86,89,74,57,32
+833,Lizzie, bachelor's degree ,male,none,group A,60,58,64,90,42
+834,Inez, high school ,female,completed,group B,82,89,77,54,53
+835,Sara, some college ,male,none,group B,50,45,58,41,67
+836,Pearl, high school ,female,completed,group C,64,74,60,44,36
+837,Mae, high school ,male,none,group E,64,57,73,73,82
+838,Myrtle, high school ,female,completed,group A,82,79,75,34,58
+839,Katie, associate's degree ,male,completed,group B,57,53,58,67,63
+840,Sallie, associate's degree ,female,none,group C,77,73,66,50,78
+841,Catherine, high school ,female,none,group D,52,46,39,54,39
+842,Hazel, some high school ,male,none,group C,58,51,64,50,88
+843,Vera, high school ,female,completed,group B,44,36,23,39,68
+844,Jewell, some college ,male,completed,group B,77,76,74,55,62
+845,Eunice, some high school ,female,completed,group D,65,64,40,48,75
+846,Agnes, master's degree ,male,none,group E,85,84,90,32,82
+847,Alberta, master's degree ,male,completed,group C,85,85,91,71,80
+848,Eula, high school ,male,none,group D,54,50,64,35,72
+849,Lena, high school ,female,none,group C,72,68,59,33,42
+850,Christine, associate's degree ,male,none,group D,75,69,80,43,47
+851,Florence, master's degree ,male,none,group C,67,67,71,34,50
+852,Lottie, high school ,female,none,group A,68,63,61,91,55
+853,Addie, some college ,female,none,group E,85,93,87,43,58
+854,Ola, some high school ,male,none,group E,67,61,82,70,35
+855,Rose, some high school ,male,none,group C,64,55,62,46,89
+856,Janie, bachelor's degree ,female,none,group B,97,96,97,63,53
+857,Nancy, some college ,male,none,group B,68,65,75,36,87
+858,Nettie, bachelor's degree ,female,none,group C,79,81,65,43,34
+859,Bernice, high school ,male,completed,group B,49,46,52,86,88
+860,Ollie, associate's degree ,male,none,group C,73,72,87,66,58
+861,Beulah, associate's degree ,female,none,group C,62,53,53,30,42
+862,Estelle, master's degree ,female,none,group E,86,87,81,57,77
+863,Doris, bachelor's degree ,male,completed,group D,42,38,39,71,51
+864,Ellen, some college ,female,completed,group C,71,80,71,50,54
+865,Esther, associate's degree ,male,none,group C,93,91,97,79,54
+866,Rebecca, some college ,male,completed,group D,82,88,82,57,41
+867,Johnnie, high school ,male,none,group C,53,52,59,75,65
+868,Josephine, associate's degree ,male,none,group B,42,41,61,76,38
+869,Lola, associate's degree ,male,completed,group E,74,72,78,88,56
+870,Nora, associate's degree ,male,none,group C,51,51,49,30,62
+871,Gussie, high school ,male,none,group B,58,47,59,60,59
+872,Edith, some college ,female,completed,group C,72,76,70,41,34
+873,Leola, associate's degree ,male,completed,group B,84,78,82,60,31
+874,Mabel, associate's degree ,male,none,group E,90,82,90,34,72
+875,Sadie, bachelor's degree ,female,none,group C,62,61,43,56,38
+876,Dora, some college ,male,none,group C,64,66,80,89,65
+877,Ada, some college ,male,none,group D,82,84,81,37,42
+878,Anne, some high school ,male,none,group C,61,54,57,45,90
+879,Vivian, some high school ,female,none,group D,72,80,59,45,85
+880,Katherine, associate's degree ,female,none,group D,76,74,64,35,79
+881,Rosie, bachelor's degree ,male,completed,group C,64,66,63,37,54
+882,Leila, bachelor's degree ,female,completed,group E,70,70,71,68,77
+883,Blanche, high school ,female,none,group B,73,71,64,32,86
+884,Effie, bachelor's degree ,male,none,group D,46,44,55,56,67
+885,Geneva, associate's degree ,female,none,group E,51,54,51,67,60
+886,Ann, associate's degree ,female,completed,group C,76,80,62,76,85
+887,Betty, associate's degree ,female,completed,group E,100,95,93,37,43
+888,Elsie, high school ,male,none,group C,72,59,54,41,72
+889,Maude, some college ,female,none,group D,65,74,69,60,71
+890,Marjorie, high school ,male,none,group D,51,48,44,41,61
+891,Roberta, some college ,female,completed,group E,85,91,86,81,82
+892,Eleanor, associate's degree ,female,none,group E,92,85,85,77,80
+893,Lessie, master's degree ,female,none,group A,67,73,50,63,74
+894,Mable, some high school ,male,completed,group D,74,75,88,76,66
+895,Velma, associate's degree ,female,none,group E,62,69,59,57,62
+896,Carolyn, some high school ,female,none,group E,34,38,32,33,85
+897,Eloise, high school ,male,none,group B,29,27,36,47,55
+898,Estella, some high school ,female,completed,group B,78,79,63,56,60
+899,Ora, associate's degree ,male,completed,group D,54,63,67,47,81
+900,Marguerite, some high school ,female,completed,group D,78,82,65,54,48
+901,Della, master's degree ,male,none,group D,84,89,85,30,41
+902,Jewel, master's degree ,female,none,group C,78,74,73,71,42
+903,Kathleen, high school ,female,completed,group A,48,41,34,56,33
+904,Emily, bachelor's degree ,female,completed,group D,100,100,93,77,73
+905,Jane, some high school ,female,none,group D,84,84,67,75,48
+906,Juanita, some college ,male,none,group D,77,77,88,31,80
+907,Marion, high school ,male,none,group B,48,51,57,47,74
+908,Myrtice, some college ,female,completed,group D,84,91,79,43,91
+909,Odessa, bachelor's degree ,female,none,group C,75,72,67,88,78
+910,Cleo, bachelor's degree ,male,completed,group E,64,70,70,41,63
+911,Flora, bachelor's degree ,male,none,group D,42,48,50,58,74
+912,Jennie, some college ,female,none,group A,84,82,69,88,34
+913,Leona, bachelor's degree ,female,completed,group C,61,66,52,31,75
+914,Nina, bachelor's degree ,female,completed,group C,62,66,47,77,58
+915,Rachel, associate's degree ,female,none,group B,61,55,46,51,69
+916,Etta, some college ,female,none,group E,70,66,68,34,83
+917,Opal, bachelor's degree ,male,completed,group E,100,100,100,77,62
+918,Bertie, high school ,female,none,group C,61,52,44,63,79
+919,Callie, associate's degree ,female,completed,group C,77,80,57,45,36
+920,Winnie, some college ,male,completed,group B,96,91,91,83,45
+921,Eddie, high school ,male,none,group D,70,67,69,60,83
+922,Florine, high school ,female,none,group C,53,46,35,34,66
+923,Margie, high school ,male,none,group D,66,66,72,61,44
+924,May, associate's degree ,female,none,group B,65,65,54,37,67
+925,Sally, high school ,male,none,group D,70,69,74,57,30
+926,Stella, some high school ,male,completed,group E,64,60,74,34,44
+927,Tommie, associate's degree ,male,none,group E,56,52,64,36,60
+928,Amanda, high school ,female,completed,group D,61,71,65,62,39
+929,Bonnie, associate's degree ,male,completed,group E,43,44,46,66,60
+930,Erma, some high school ,female,none,group C,56,51,48,59,32
+931,Nell, some college ,male,completed,group C,74,70,67,73,89
+932,Ophelia, some college ,male,none,group D,57,62,62,87,87
+933,Pearlie, associate's degree ,male,completed,group D,71,73,61,65,90
+934,Frankie, bachelor's degree ,male,completed,group C,75,74,70,39,40
+935,Henrietta, associate's degree ,male,completed,group C,87,90,98,85,33
+936,Josie, some college ,male,none,group D,63,58,70,72,79
+937,Kate, associate's degree ,male,none,group A,57,53,67,78,56
+938,Audrey, high school ,female,none,group E,58,57,57,39,54
+939,Allie, some college ,male,completed,group D,81,85,85,36,87
+940,Flossie, some high school ,male,completed,group D,68,69,77,71,91
+941,Irma, master's degree ,male,completed,group C,66,72,72,45,51
+942,Jean, master's degree ,female,none,group D,91,96,78,50,59
+943,Kathryn, high school ,male,none,group C,66,64,81,46,69
+944,Lila, some high school ,male,completed,group A,62,61,61,52,75
+945,Charlie, high school ,female,none,group B,68,61,58,80,30
+946,Claudia, associate's degree ,female,none,group C,61,58,54,40,40
+947,Dollie, high school ,male,none,group B,82,80,82,85,61
+948,Ina, some college ,female,none,group D,58,60,49,34,53
+949,Jimmie, some high school ,male,completed,group B,50,52,49,71,37
+950,Willa, high school ,female,completed,group E,75,73,57,78,84
+951,Corine, high school ,male,none,group E,73,71,94,56,51
+952,Eliza, some college ,female,completed,group D,77,83,75,80,53
+953,Nannie, some high school ,female,none,group E,74,72,74,36,30
+954,Francis, high school ,male,completed,group C,52,54,58,82,46
+955,Jannie, some college ,female,none,group C,69,69,62,55,51
+956,Luella, associate's degree ,male,none,group E,57,62,72,76,33
+957,Mollie, some college ,male,none,group C,87,81,84,61,41
+958,Rosetta, master's degree ,female,none,group D,100,100,92,73,42
+959,Sue, high school ,female,none,group D,63,59,45,37,49
+960,Allene, high school ,male,none,group C,81,71,75,58,74
+961,Amy, some college ,female,none,group A,58,64,56,84,56
+962,Billie, some high school ,female,none,group D,54,53,48,85,40
+963,Elma, associate's degree ,female,none,group E,100,100,100,41,65
+964,Emmie, some high school ,female,completed,group C,76,75,65,74,91
+965,Eugenia, some college ,male,none,group D,57,58,72,42,58
+966,Geraldine, some college ,female,none,group D,70,72,62,63,30
+967,Myrtis, some high school ,male,completed,group A,68,64,66,57,54
+968,Reba, some college ,male,none,group C,63,60,63,70,34
+969,Rubye, associate's degree ,female,none,group E,76,67,68,51,81
+970,Ernestine, bachelor's degree ,female,none,group B,84,80,75,88,72
+971,Hilda, bachelor's degree ,female,none,group D,100,100,89,50,47
+972,Lorene, some high school ,male,completed,group C,72,69,78,67,83
+973,Ludie, high school ,female,completed,group A,50,60,53,35,47
+974,Magnolia, some college ,female,none,group D,65,61,49,42,58
+975,Marian, some college ,female,none,group A,63,67,54,42,38
+976,Miriam, some college ,female,completed,group C,82,77,64,88,65
+977,Naomi, some college ,male,completed,group B,62,60,60,48,37
+978,Amelia, associate's degree ,male,none,group C,65,58,62,31,86
+979,Belle, high school ,male,completed,group D,41,48,55,73,90
+980,Elnora, associate's degree ,female,none,group C,95,94,91,31,68
+981,Johnie, high school ,female,none,group B,24,23,8,80,51
+982,Lela, some high school ,male,none,group D,78,78,81,38,69
+983,Millie, some high school ,male,completed,group B,85,86,79,87,78
+984,Mozelle, some college ,female,completed,group A,87,91,78,32,39
+985,Barbara, some high school ,female,none,group C,75,82,74,50,64
+986,Connie, high school ,male,none,group A,51,54,57,51,47
+987,Harriet, associate's degree ,female,none,group C,59,51,40,30,78
+988,Linnie, some high school ,male,completed,group E,75,76,81,81,75
+989,Maud, some high school ,female,none,group A,45,45,44,40,76
+990,Mittie, some college ,female,completed,group D,86,83,67,37,82
+991,Olivia, high school ,male,completed,group E,81,75,86,64,50
+992,Robbie, some high school ,female,completed,group B,82,78,65,59,60
+993,Susan, associate's degree ,female,none,group D,76,76,55,42,86
+994,Floy, bachelor's degree ,female,none,group D,72,74,62,62,46
+995,Georgie, high school ,male,none,group A,63,62,63,87,30
+996,Jeanette, master's degree ,female,completed,group E,99,95,88,55,43
+997,Lee, high school ,male,none,group C,55,55,62,81,81
+998,Maudie, high school ,female,completed,group C,71,65,59,87,50
+999,Winifred, some college ,female,completed,group D,78,77,68,80,54
+1000,Annette, some college ,female,none,group D,86,86,77,81,55
