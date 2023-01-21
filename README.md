@@ -18,9 +18,8 @@ skills each student excels in and which inner skills should be enhanced.
 
 ## Design
 
-This application was created so that teachers may search for students by name and use whatever filter they desire. The
-computer will then display graphs showing the frequency of each subject, as well as a pie chart showing the details of
-each student's subjects.
+This application is created to manage student information so that teachers can search for students by filtering various information and display those information. In the form of a histogram with a pie chart showing the details of
+That student in each subject to see the outstanding characteristics of that student.
 
 ## Design Patterns Used
 
